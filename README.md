@@ -10,6 +10,7 @@ This report answers key environmental and policy questions such as:
 3.	How does air quality vary by month/season/year?
 4.	Are there correlations between temperature, humidity, and pollution levels?
 5.	How often does air quality breach safe thresholds (e.g., WHO limits)?
+
 KPIs Tracked:
 •	Average AQI
 •	Max/Min PM2.5 and PM10
