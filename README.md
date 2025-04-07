@@ -16,6 +16,9 @@ KPIs Tracked:
 •	Max/Min PM2.5 and PM10
 •	Days with "Unhealthy" AQI levels
 •	Pollution trends over time
+## Dashboard Image
+![dashboard project 1](https://github.com/user-attachments/assets/a7f13503-a32a-4527-8ab9-7505bf32e30b)
+
 ## Process
 1.	Data Collection
 o	Imported data from [insert source: CSV/API/database]
