@@ -29,11 +29,11 @@ o	Set up relationships between pollutant measures and time/location
 o	Created bar charts, maps, line graphs, and KPIs
 o	Added slicers for region and time filtering
 ## Project Insights
-•	Cities with high traffic and industrial activity show consistently poor air quality.
-•	PM2.5 levels tend to spike during colder months, likely due to heating and stagnant air.
-•	A clear seasonal pattern emerges, with summer months typically showing lower pollutant concentrations.
-•	Some cities breach WHO safe limits on more than 50% of observed days.
-•	Correlation observed between high PM2.5 and temperature inversion periods.
+Cities with high traffic and industrial activity show consistently poor air quality.
+PM2.5 levels tend to spike during colder months, likely due to heating and stagnant air.
+A clear seasonal pattern emerges, with summer months typically showing lower pollutant concentrations.
+Some cities breach WHO safe limits on more than 50% of observed days.
+Correlation observed between high PM2.5 and temperature inversion periods.
 ## Final Conclusion
 The Air Pollution Index Report successfully highlights critical pollution trends and hotspots using clean and interactive Power BI visualizations. This report can assist environmental agencies, researchers, and policy planners in identifying problem areas, allocating resources, and designing effective mitigation strategies.
 With further enhancements like real-time data integration and predictive forecasting, this dashboard can evolve into a real-world decision support system for environmental governance.
